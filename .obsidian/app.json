@@ -1,0 +1,14 @@
+{
+  "spellcheckLanguages": null,
+  "spellcheck": false,
+  "tabSize": 4,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "attachmentFolderPath": "./_resources",
+  "legacyEditor": false,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": false,
+  "showInlineTitle": true
+}

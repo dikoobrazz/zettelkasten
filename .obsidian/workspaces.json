@@ -1,0 +1,153 @@
+{
+  "workspaces": {
+    "default": {
+      "main": {
+        "id": "9453159575894c24",
+        "type": "split",
+        "children": [
+          {
+            "id": "e9343fbd3653a243",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7ad44196ca2ea3f8",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f3ef0ddb2ed29b15",
+        "type": "split",
+        "children": [
+          {
+            "id": "4804774eb47386ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "70caab61aed6fbfa",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "de014b3e776540c8",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a46aabd5f1f51a05",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "3b3cdd3023bd2c41",
+        "type": "split",
+        "children": [
+          {
+            "id": "9d9f02c486b7b223",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4a5a84fc21b34097",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b9b9feb54087f5f5",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "aec8a3417cd6df92",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "b50918d49be30f51",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "88b11ad2ffd613cf",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "562f3aa663266154",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 365.5
+      },
+      "active": "7ad44196ca2ea3f8"
+    }
+  },
+  "active": "default"
+}

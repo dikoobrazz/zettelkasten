@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "9453159575894c24",
+    "type": "split",
+    "children": [
+      {
+        "id": "92aec479fd5b8538",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71c033f9f669bf5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-Core/Code/GO/00 Go - Массивы. Срезы..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Go - Массивы. Срезы."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3ef0ddb2ed29b15",
+    "type": "split",
+    "children": [
+      {
+        "id": "4804774eb47386ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70caab61aed6fbfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "de014b3e776540c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "a46aabd5f1f51a05",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "1d23df834daeeb32",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "right": {
+    "id": "3b3cdd3023bd2c41",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d9f02c486b7b223",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a5a84fc21b34097",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Z-Core/Code/Java/00 Collection.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 00 Collection"
+            }
+          },
+          {
+            "id": "b9b9feb54087f5f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Z-Core/Code/Java/00 Collection.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 00 Collection"
+            }
+          },
+          {
+            "id": "aec8a3417cd6df92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "b50918d49be30f51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Z-Core/Code/Java/00 Collection.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура 00 Collection"
+            }
+          },
+          {
+            "id": "88b11ad2ffd613cf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "562f3aa663266154",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {},
+              "icon": "FANTASY_CALENDAR",
+              "title": "Fantasy Calendar"
+            }
+          },
+          {
+            "id": "31e9b89fb640eb53",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "meld-encrypt:Create new encrypted note": false,
+      "footlinks:Footlinks": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false,
+      "workspaces:Пространства": false
+    }
+  },
+  "active": "71c033f9f669bf5d",
+  "lastOpenFiles": [
+    "Inbox/Golang Lessons.md",
+    "Z-Core/Code/GO/00 Срез.md",
+    "Z-Core/Code/GO/00 Массив.md",
+    "Z-Core/Code/GO/00 Go - Массивы. Срезы..md",
+    "Z-Core/Code/Java/00 ArrayList.md",
+    "Z-Core/Code/Java/00 Array.md",
+    "Inbox/Массив.md",
+    "Z-Core/Code/GO/00 Go - Циклы.md",
+    "Z-Core/Zen-Zettekasten.md",
+    "Z-Core/Code/GO/00 Go - Форматированный вывод.md",
+    "Z-Core/Code/GO/00 Go - Условные конструкции.md",
+    "Z-Core/Code/Java/ml Java Learning Beginner.md",
+    "Z-Core/Code/GO/ml Go Learning Beginner.md",
+    "Inbox/draft Concurrency.md",
+    "Inbox/draft Input Output.md",
+    "Inbox/draft Fuctional Programming.md",
+    "Inbox/draft Exceptions.md",
+    "Z-Core/Book/JAVA Решение практических задач..md",
+    "Z-Core/Code/GO/Массивы",
+    "Z-Core/Book/ml Sort Array.md",
+    "Z-Core/Book/ml Arrays Collections.md",
+    "Inbox/OO Merge Sort.md",
+    "Inbox/00 Count Duplicate Char.md",
+    "Z-Core/Book/ml Strings Numbers.md",
+    "Z-Core/Book/00 Quick Sort.md",
+    "Z-Core/Book/00 Insert Sort.md",
+    "Z-Core/Book/00 Heap Sort.md",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "Inbox/Без названия.canvas",
+    "Z-Core/Code/Spring/_resources/springContext.png",
+    "Z-Core/Code/Spring/_resources/beanLifecycle.png",
+    "Z-Core/Code/Spring/_resources",
+    "Z-Core/Code/Spring",
+    "Z-Core/Code/GO/Форматированный вывод",
+    "Z-Core/Code/GO/Циклы",
+    "Z-Core/Code/GO/Условные конструкции",
+    "Inbox/GoStepik",
+    "Inbox/_resources/error_GO_1.png",
+    "Daily/_resources/2023-08-27_15-59.png",
+    "Daily/_resources/2023-08-27_15-51.png",
+    "Inbox/_resources/interfaces_GO_2 1.png",
+    "Inbox/_resources/interfaces_GO_2.png",
+    "Inbox/_resources/interfaces_GO.png",
+    "Inbox/_resources/slice_GO_7.png",
+    "Inbox/_resources/slice_GO_6.png",
+    "Inbox/_resources"
+  ]
+}
