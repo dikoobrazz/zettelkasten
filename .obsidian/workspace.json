@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e4499f373df419a4",
+        "id": "98b0fe35533a23fe",
         "type": "tabs",
         "children": [
           {
-            "id": "000d816c552d17c4",
+            "id": "63d340ca01f8b54b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Core/Code/GO/00 Go - Оператор defer.md",
+                "file": "Z-Core/Code/GO/00 GO - Структура проекта.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Go - Оператор defer"
+              "title": "00 GO - Структура проекта"
+            }
+          },
+          {
+            "id": "27e0509064b27ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Треккер Откликов. Работа..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Треккер Откликов. Работа."
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 314.5
   },
   "right": {
     "id": "3b3cdd3023bd2c41",
@@ -202,37 +217,41 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "000d816c552d17c4",
+  "active": "27e0509064b27ad8",
   "lastOpenFiles": [
-    "Daily/03-12-2024.md",
-    "Z-Core/Code/GO/00 Go - Оператор defer.md",
-    "Z-Core/Code/GO/00 Go - Оператор panic.md",
-    "Z-Core/Code/GO/00 Go - Обработка ошибок.md",
-    "Z-Core/Code/GO/00 GO - Строки.md",
-    "Z-Core/Code/GO/00 Go - Unicode.md",
-    "Z-Core/Code/GO/00 Go - Срезы рун.md",
-    "Z-Core/Code/GO/00 Go - Байтовые срезы.md",
-    "Z-Core/Code/GO/00 Массив.md",
-    "Z-Core/Code/Java/00 Comaprator.md",
-    "Z-Core/Code/Java/00 ByteArrayOutputStream.md",
-    "Z-Core/Code/Java/00 ByteArrayInputStream.md",
-    "Z-Core/Code/Java/00 BufferedOutputStream.md",
-    "Z-Core/Code/Java/00 BufferedInputStream.md",
-    "Z-Core/Code/Java/00 Big O.md",
-    "Z-Core/Code/Java/00 ArrayList.md",
-    "Z-Core/Code/Java/00 ArrayDeque.md",
-    "Z-Core/Code/Java/00 ArrayBlockingQueue.md",
-    "Z-Core/Code/Java/00 Array.md",
+    "Z-Core/Code/GO/00 GO - Структура проекта.md",
+    "Inbox/Треккер Откликов. Работа..md",
+    "Z-Core/Code/GO/_resources/sheme.png",
+    "Z-Core/Code/GO/ml Go Learning Beginner.md",
+    "Без названия.canvas",
     "Daily/16-06-2023.md",
-    "Z-Core/Code/GO/00 Go - Массивы. Срезы..md",
-    "Inbox/Golang Lessons.md",
-    "Z-Core/Code/GO/00 Срез.md",
-    "Inbox/Массив.md",
-    "Z-Core/Code/GO/00 Go - Циклы.md",
-    "Z-Core/Zen-Zettekasten.md",
+    "Daily/27-09-2023.md",
+    "Inbox/Git Totorial.md",
+    "Inbox/_resources/rebase-i_3.png",
+    "Inbox/_resources/rebase-i_2.png",
+    "Inbox/_resources/rebase-i.png",
+    "Daily/05-11-2024.md",
+    "Z-Core/Code/Java/ml Java Learning Beginner.md",
+    "Z-Core/Code/Java/ml Algorithms.md",
+    "Z-Core/Code/Java/ml Java Collections API.md",
+    "Z-Core/Code/Java/ml Java Concurrency.md",
+    "Z-Core/Code/Java/ml Java Exceptions.md",
+    "Z-Core/Code/Java/ml Java Input Output.md",
+    "Z-Core/Code/Java/00 ByteArrayInputStream.md",
+    "Z-Core/Code/Java/00 DataInputStream.md",
+    "Z-Core/Code/Java/00 Exception Types.md",
+    "Z-Core/Code/Java/00 Custom exception.md",
+    "Z-Core/Code/Java/00 Throw exception.md",
+    "Z-Core/Code/Java/00 Exception Basics.md",
+    "Z-Core/Code/Java/00 Multiple catch.md",
+    "Z-Core/Code/Java/00 Finally block.md",
+    "Z-Core/Code/Java/00 Try-Catch block.md",
+    "Z-Core/Code/Java/00 Big O.md",
+    "Z-Core/Code/Java/00 EnumMap.md",
+    "Z-Core/Code/Java/00 TreeMap.md",
+    "Z-Core/Code/Java/00 Comparable.md",
     "Z-Core/Code/GO/Массивы",
     "Без названия 1.canvas",
-    "Без названия.canvas",
     "Inbox/Без названия.canvas",
     "Z-Core/Code/Spring/_resources/springContext.png",
     "Z-Core/Code/Spring/_resources/beanLifecycle.png",
@@ -246,10 +265,6 @@
     "Daily/_resources/2023-08-27_15-59.png",
     "Daily/_resources/2023-08-27_15-51.png",
     "Inbox/_resources/interfaces_GO_2 1.png",
-    "Inbox/_resources/interfaces_GO_2.png",
-    "Inbox/_resources/interfaces_GO.png",
-    "Inbox/_resources/slice_GO_7.png",
-    "Inbox/_resources/slice_GO_6.png",
     "Inbox/_resources"
   ]
 }

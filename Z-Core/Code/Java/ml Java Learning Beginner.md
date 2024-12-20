@@ -9,19 +9,19 @@ ___
 ## Program to learning for beginner
 
  1. Java Core
-	* Collections.
+	* [[ml Java Collections API|Collections]]
 		 Colletions API. Информация о коллекциях и алгоритмах, на которых они основан.
-	* Java Errors/Exceptions
+	* [[ml Java Exceptions|Java Errors/Exceptions]]
 		 Иерархия исключений в Java. Наиболее часто встречаемые исключения во время разработки программного исключения. Создание собственных исключений. 
-	* Java I/O
+	* [[ml Java Input Output|Java I/O]]
 		 Информация о потках ввода/вывода, иерархия поток в Java и их применение в разработке ПО. Модуль также включает информацию о кодировках.
-	* Java Concurrency
+	* [[ml Java Concurrency|Java Concurrency]]
 		 Реализация многопоточности в Java, основные классы пакета java.util.concurrency и их методы.
 	* Java OOP
 		 Основные принципы ООП ,их важность и применение в разработке ПО. Модуль также включает в себя изучение шаблонов проектирования(GoF) и их использование в JDK и конкретных примерах.
 	* Java JVM
 		 Изучение основных принципов работы JVM.
- 1. Java Developer 
+ 2. Java Developer 
 		Изучение технологий и средств, которые используются при разработке современного ПО.
 	- Сети.
 	* Data Base and SQL
