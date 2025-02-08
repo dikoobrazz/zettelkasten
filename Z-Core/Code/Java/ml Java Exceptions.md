@@ -6,7 +6,7 @@ mapofcontents:
 ___
 ## Теория
 
-![[_resources/Exception-Hierarchy 1.png]]
+![[_resources/Java_Exceptions.png]]
 
 1. Шилдт - глава 10
 2. [Руководство по Java Core. Исключения.](https://proselyte.net/tutorials/java-core/exceptions/)

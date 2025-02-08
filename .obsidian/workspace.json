@@ -4,39 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "98b0fe35533a23fe",
+        "id": "fb006a26627eef1f",
         "type": "tabs",
         "children": [
           {
-            "id": "63d340ca01f8b54b",
+            "id": "bf5ee83347a4b68d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Core/Code/GO/00 GO - Структура проекта.md",
+                "file": "Inbox/доп к резюме.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 GO - Структура проекта"
+              "title": "доп к резюме"
             }
           },
           {
-            "id": "27e0509064b27ad8",
+            "id": "d78f2e4a89518570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Треккер Откликов. Работа..md",
+                "file": "Inbox/резюме Go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Треккер Откликов. Работа."
+              "title": "резюме Go"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +54,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 370.5
   },
   "right": {
     "id": "3b3cdd3023bd2c41",
@@ -217,54 +217,56 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "27e0509064b27ad8",
+  "active": "bf5ee83347a4b68d",
   "lastOpenFiles": [
-    "Z-Core/Code/GO/00 GO - Структура проекта.md",
+    "Inbox/резюме Go.md",
     "Inbox/Треккер Откликов. Работа..md",
-    "Z-Core/Code/GO/_resources/sheme.png",
-    "Z-Core/Code/GO/ml Go Learning Beginner.md",
+    "Inbox/доп к резюме.md",
+    "linkedin.com/in/beloborodoff.md",
+    "linkedin.com/in",
+    "linkedin.com",
+    "Inbox/Docker - Postgresql && MySQL.md",
+    "Inbox/резюме Java.md",
+    "Inbox/_resources/опыт_как_надо_3.png",
+    "Inbox/_resources/опыт_как_надо_2.png",
+    "Inbox/_resources/опыт_как_надо.png",
+    "Inbox/_resources/2025-02-03_22-13.png",
+    "Inbox/_resources/2025-02-03_22-12_1.png",
+    "Inbox/_resources/2025-02-03_22-12.png",
+    "Inbox/_resources/2025-02-03_22-11.png",
+    "Inbox/Golang Lessons.md",
+    "Inbox/deepseek -lesson plan.md",
+    "Z-Core/Code/GO/00 Go - Context.md",
+    "Z-Core/Code/GO/ml Go Concurrency.md",
+    "Z-Core/Code/GO/00 Go - Pattern Pipeline.md",
+    "Z-Core/Code/GO/00 Go - Pattern Strategy.md",
+    "Z-Core/Code/GO/00 Go - Pattern Observer.md",
+    "Z-Core/Code/GO/00 Go - Pattern Decorator.md",
+    "Z-Core/Code/GO/00 Go - Pattern Factory.md",
+    "Z-Core/Code/GO/00 Go - Pattern Singletone.md",
+    "Z-Core/Code/GO/ml Go Patterns.md",
     "Без названия.canvas",
-    "Daily/16-06-2023.md",
-    "Daily/27-09-2023.md",
-    "Inbox/Git Totorial.md",
-    "Inbox/_resources/rebase-i_3.png",
-    "Inbox/_resources/rebase-i_2.png",
-    "Inbox/_resources/rebase-i.png",
+    "Z-Core/Code/Java/00 Deque.md",
+    "Z-Core/Code/GO/00 Go - Pattern DI.md",
+    "Z-Core/Code/GO/00 Go - Pattern Builder.md",
+    "Z-Core/Code/GO/00 Go - Types.md",
+    "Z-Core/Code/GO/00 Go - Custom types.md",
+    "Z-Core/Code/GO/00 Go - Структура проекта.md",
+    "Z-Core/Code/GO/ml Go Learning Beginner.md",
+    "Z-Core/Code/GO/00 Go - DB Connect.md",
     "Daily/05-11-2024.md",
-    "Z-Core/Code/Java/ml Java Learning Beginner.md",
-    "Z-Core/Code/Java/ml Algorithms.md",
-    "Z-Core/Code/Java/ml Java Collections API.md",
-    "Z-Core/Code/Java/ml Java Concurrency.md",
-    "Z-Core/Code/Java/ml Java Exceptions.md",
-    "Z-Core/Code/Java/ml Java Input Output.md",
-    "Z-Core/Code/Java/00 ByteArrayInputStream.md",
-    "Z-Core/Code/Java/00 DataInputStream.md",
-    "Z-Core/Code/Java/00 Exception Types.md",
-    "Z-Core/Code/Java/00 Custom exception.md",
-    "Z-Core/Code/Java/00 Throw exception.md",
-    "Z-Core/Code/Java/00 Exception Basics.md",
-    "Z-Core/Code/Java/00 Multiple catch.md",
-    "Z-Core/Code/Java/00 Finally block.md",
-    "Z-Core/Code/Java/00 Try-Catch block.md",
-    "Z-Core/Code/Java/00 Big O.md",
-    "Z-Core/Code/Java/00 EnumMap.md",
-    "Z-Core/Code/Java/00 TreeMap.md",
-    "Z-Core/Code/Java/00 Comparable.md",
+    "Z-Core/Code/Java/_resources/valueTypes.png",
+    "Z-Core/Code/Java/_resources/javaTypes.png",
+    "Z-Core/Code/Java/_resources/Java_Exceptions.png",
     "Z-Core/Code/GO/Массивы",
     "Без названия 1.canvas",
     "Inbox/Без названия.canvas",
-    "Z-Core/Code/Spring/_resources/springContext.png",
-    "Z-Core/Code/Spring/_resources/beanLifecycle.png",
     "Z-Core/Code/Spring/_resources",
     "Z-Core/Code/Spring",
     "Z-Core/Code/GO/Форматированный вывод",
     "Z-Core/Code/GO/Циклы",
     "Z-Core/Code/GO/Условные конструкции",
     "Inbox/GoStepik",
-    "Inbox/_resources/error_GO_1.png",
-    "Daily/_resources/2023-08-27_15-59.png",
-    "Daily/_resources/2023-08-27_15-51.png",
-    "Inbox/_resources/interfaces_GO_2 1.png",
     "Inbox/_resources"
   ]
 }
