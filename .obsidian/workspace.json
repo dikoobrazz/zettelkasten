@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bbba9d09d39797e2",
+        "id": "3005340c90cbf342",
         "type": "tabs",
         "children": [
           {
-            "id": "272245d167088cc2",
+            "id": "ab72c4694464b230",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "610d600b54a226c1",
+            "id": "74ce3875a47c1be2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/резюме/резюме Go Grok для HH.md",
+                "file": "Z-Core/Собеседование Go/00 Читаем файл с конца.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "резюме Go Grok для HH"
+              "title": "00 Читаем файл с конца"
             }
           }
         ]
@@ -222,34 +222,34 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "272245d167088cc2",
+  "active": "ab72c4694464b230",
   "lastOpenFiles": [
-    "Inbox/резюме/резюме Go Grok.md",
-    "Inbox/резюме/резюме Go ChatGPT.md",
-    "Inbox/резюме/резюме Go Grok для HH.md",
+    "Z-Core/Собеседование Go/00 Читаем файл с конца.md",
     "Z-Core/Собеседование Go/ml Вопросы Собеседование GO.md",
-    "Z-Core/Собеседование Go/00 http методы.md",
-    "Inbox/резюме/доп к резюме.md",
-    "Z-Core/Собеседование Go/00 Что такое CQRS.md",
-    "Z-Core/Собеседование Go/00 Нормализация и денормализация БД.md",
-    "Z-Core/Собеседование Go/00 Запись и чтение в CQRS.md",
+    "Z-Core/Собеседование Go/00 GIN индекс в PostgreSQL.md",
+    "Z-Core/Собеседование Go/00 Уровни изоляции в базах данных.md",
+    "Z-Core/Собеседование Go/00 Блокировки в BD.md",
+    "Z-Core/Собеседование Go/00 Вложенные транзакции в BD.md",
+    "Z-Core/Собеседование Go/Без названия.md",
+    "Z-Core/Собеседование Go/00 NOTIFY в postgreSQL.md",
+    "Z-Core/Собеседование Go/00 Тормозит запрос к базе. Explain и Explain Analyze.md",
+    "Z-Core/Собеседование Go/00 Составной индекс в BD.md",
+    "Z-Core/Собеседование Go/00 Триггеры в BD.md",
+    "Z-Core/Собеседование Go/00 Batching updates.md",
+    "Z-Core/Собеседование Go/00 Синхронная и асинхронная репликация.md",
+    "Z-Core/Собеседование Go/00 Репликация в базах данных.md",
+    "Z-Core/Собеседование Go/00 Индексы в BD - отрицательные эффекты.md",
+    "Z-Core/Собеседование Go/00 Индексы в базах данных.md",
+    "Z-Core/Собеседование Go/00 Reflection в Go.md",
+    "Z-Core/Собеседование Go/00 Где хранить интерфейсы.md",
+    "Z-Core/Собеседование Go/00 Как работают интерфейсы в Go.md",
+    "Daily/02-03-2025.md",
+    "Z-Core/Собеседование Go/00 NIL Interface.md",
+    "Z-Core/Собеседование Go/00 Что такое Interface.md",
     "Z-Core/Собеседование Go/00 Что такое ACID.md",
-    "Z-Core/Собеседование Go/00 error group в Go.md",
-    "Z-Core/Собеседование Go/00 Error в Go.md",
-    "Z-Core/Собеседование Go/00 Сontext в Go.md",
-    "Z-Core/Собеседование Go/00 Select в Go.md",
-    "Z-Core/Собеседование Go/00 Шардирование Map.md",
-    "Z-Core/Собеседование Go/00 Многопоточная работа с Map.md",
-    "Z-Core/Собеседование Go/00 Устройство Map в Go.md",
-    "Z-Core/Собеседование Go/00 Структуры данных.md",
-    "Z-Core/Собеседование Go/00 Сложить две строки в Go.md",
-    "Z-Core/Собеседование Go/00 Сортировка массива по частоте.md",
-    "Z-Core/Собеседование Go/00 Что такое map?.md",
-    "Z-Core/Собеседование Go/00 Посчитать символы в строке.md",
-    "Z-Core/Собеседование Go/00 Строки в Go.md",
-    "Daily/24-02-2025.md",
-    "Z-Core/Собеседование Go/00 Реализация Set.md",
-    "Z-Core/Собеседование Go/00 Что такое Slice.md",
+    "Z-Core/Собеседование Go/00 Нормализация и денормализация БД.md",
+    "Z-Core/Собеседование Go/00 http методы.md",
+    "Inbox/deepseek -lesson plan.md",
     "Z-Core/Собеседование Go",
     "Inbox/резюме/_resources",
     "Inbox/резюме",
