@@ -1,11 +1,11 @@
 ## Андрей Белобородов
 ---
 
-Телефон: [+7 927 669 7146 ](https://) 
+Телефон: [+7 927 669 7146 ]() 
 Email: [beloborodov.on@yandex.ru](mailto:beloborodov.on@yandex.ru)    
 GitHub: [github.com/jmoloko](https://github.com/jmoloko)  
 Telegram: [@beloborodoff](https://)  
-Location: [Россия](https://)
+Location: [Казань](https://)
 
 ---
 #### Цель
@@ -20,11 +20,11 @@ backend-разработку.
 **Стартап (городские грузоперевозки) — Казахстан**  
 **Март 2023 — Октябрь 2024**
 
-- Разработал микросервисы заказов и уведомлений (Twilio для SMS/push) на **Go**, обеспечив масштабируемость и надёжность.
-- Спроектировал микросервисную архитектуру с **Go, Kafka, Redis, PostgreSQL, Docker**, ускорив обработку заказов с 1,5 сек до 200-300 мс.
+- Разработал и внедрил микросервисы заказов и уведомлений на **Go**, обеспечив масштабируемость и отказоустойчивость.
+- Проектировал **микросервисную архитектуру** с **Go, Kafka, Redis, PostgreSQL, Docker, twilio**.
 - Настроил мониторинг логов через **ELK**.
-- Создал биллинговый сервис на **Java (Spring Boot, Hibernate)** с интеграцией через **Kafka**.
-- Работал в **Agile**-команде (5 разработчиков, 2-недельные спринты), участвовал в код-ревью, **CI/CD (GitLab)**.
+- Оптимизировал производительность Go-сервисов, снизив время обработки заказов.
+- Разработал биллинговый сервис на **Java (Spring Boot, Hibernate, PostgreSQL)**, взаимодействующий с Go-сервисами через **Kafka**.
 
 **Стек технологий:** Go, Java, gRPC, PostgreSQL, Redis, Kafka, Docker, Twilio, ElasticSearch, Logstash, Kibana, CI/CD Gitlab.
 
@@ -34,8 +34,8 @@ backend-разработку.
 
 - Разрабатывал корпоративные приложения для управления данными абонентов и биллинга.
 - Создал **RESTful API** на **Spring Boot** для интеграции с колл-центром и внешними системами.
-- Настроил мониторинг через **Prometheus и Grafana**, внедрил алерты для предотвращения сбоев.
-- Провёл рефакторинг кода и ускорил генерацию отчётов на 30% (до <1 мин) через оптимизацию запросов **PostgreSQL**.
+- Настроил мониторинг логов через **ELK**, внедрил алерты для предотвращения сбоев.
+- Провёл рефакторинг кода и ускорил генерацию отчётов на через оптимизацию запросов **PostgreSQL**.
 - Работал в **Scrum**-команде (10 человек), вёл задачи в **Jira**, участвовал в ежедневных стендапах, код-ревью, автоматизация **CI/CD** через **GitHub Actions**.
 
 **Стек технологий:** Java 8-11, Spring Boot, JPA, Hibernate, PostgreSQL, Redis, Kafka, RAbbitMQ, Gradle, Prometeus, Grafana, Git, GitHub Actions.
@@ -76,6 +76,3 @@ backend-разработку.
 - **Дополнительно**: Highload, Microservices, Agile/Scrum, Linux
 
 
-
-[Google Drive](https://drive.google.com/file/d/1uU623jNXh4TTcmV04c8bgE_jmBzkBSnI/view?usp=drive_link)
-[Notion](https://animated-potassium-f3d.notion.site/CV-1a650454063880728a81f586f19f8860?pvs=4)

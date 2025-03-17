@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "3005340c90cbf342",
+        "id": "77e767eb804ae2d0",
         "type": "tabs",
         "children": [
           {
-            "id": "29342792ffb12244",
+            "id": "ecd84e0956736897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/15-03-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15-03-2025"
+            }
+          },
+          {
+            "id": "4f51a80e3d059554",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +35,8 @@
               "title": "ml Вопросы Собеседование GO"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,34 +223,34 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "29342792ffb12244",
+  "active": "4f51a80e3d059554",
   "lastOpenFiles": [
+    "Daily/15-03-2025.md",
+    "Inbox/резюме/Треккер Откликов. Работа..md",
     "Inbox/резюме/доп к резюме.md",
-    "Inbox/резюме/резюме Go Grok.md",
     "Z-Core/Собеседование Go/ml Вопросы Собеседование GO.md",
-    "Z-Core/Собеседование Go/00 Конвеер (pipeline) из gorutine.md",
-    "Z-Core/Собеседование Go/00 Переключение контекста между горутинами.md",
-    "Z-Core/Собеседование Go/00 Data Race и Race Condition в Go.md",
-    "Z-Core/Собеседование Go/00 Пакеты sync.Pool sync.Cond.md",
-    "Z-Core/Собеседование Go/00 Пакет sync.Pool - подробно.md",
-    "Z-Core/Собеседование Go/00 Sync package.md",
-    "Z-Core/Собеседование Go/00 Примитивы синхронизации в Go.md",
-    "Z-Core/Собеседование Go/00 Запуск 100к горутин.md",
-    "Z-Core/Собеседование Go/00 Создание Gorutine.md",
-    "Z-Core/Собеседование Go/00 Конурентность vs Параллелелизм.md",
-    "Z-Core/Собеседование Go/00 Goroutines in Go.md",
-    "Z-Core/Собеседование Go/00 Читаем файл с конца.md",
-    "Z-Core/Собеседование Go/00 GIN индекс в PostgreSQL.md",
-    "Z-Core/Собеседование Go/00 Уровни изоляции в базах данных.md",
-    "Z-Core/Собеседование Go/00 Блокировки в BD.md",
-    "Z-Core/Собеседование Go/00 Вложенные транзакции в BD.md",
-    "Z-Core/Собеседование Go/Без названия.md",
-    "Z-Core/Собеседование Go/00 NOTIFY в postgreSQL.md",
-    "Z-Core/Собеседование Go/00 Тормозит запрос к базе. Explain и Explain Analyze.md",
-    "Z-Core/Собеседование Go/00 Составной индекс в BD.md",
-    "Z-Core/Собеседование Go/00 Триггеры в BD.md",
-    "Z-Core/Собеседование Go/00 Batching updates.md",
-    "Z-Core/Собеседование Go/00 Синхронная и асинхронная репликация.md",
+    "Z-Core/Собеседование Go/00 Отличие Go от других ЯП.md",
+    "Z-Core/Собеседование Go/00 garbage collector.md",
+    "Z-Core/Собеседование Go/00 Согласованный деплой. Виды деплоя.md",
+    "Z-Core/Собеседование Go/00 Ключи идемпотентности в микросервисах.md",
+    "Z-Core/Собеседование Go/00 Observability (graphana, prometheus).md",
+    "Z-Core/Собеседование Go/00 Что такое consumer lag в Kafka.md",
+    "Z-Core/Собеседование Go/00 Партиции (partitions) в Apache Kafka.md",
+    "Z-Core/Собеседование Go/00 Kafka 100к сообщений в секунду.md",
+    "Z-Core/Собеседование Go/00 least once, amost once и exactly once.md",
+    "Z-Core/Собеседование Go/00 Kafka и RabbitMQ.md",
+    "Z-Core/Собеседование Go/00 Chain of Responsibility.md",
+    "Z-Core/Собеседование Go/00 Ограничиваем ручку API.md",
+    "Z-Core/Собеседование Go/00 Client to the same instance. Microservices.md",
+    "Z-Core/Собеседование Go/00 Несколько микросервисов - одна БД.md",
+    "Z-Core/Собеседование Go/00 Масштабирование stateless и stateful.md",
+    "Z-Core/Собеседование Go/00 stateful и stateless в микросервисах.md",
+    "Z-Core/Собеседование Go/00 Паттерн Circuit Breaker.md",
+    "Z-Core/Собеседование Go/00 High cohesion, low coupling в микросервисах.md",
+    "Z-Core/Собеседование Go/00 Коммуникации в микросервисах.md",
+    "Z-Core/Собеседование Go/00 Переход от Монолита к Микросервисам.md",
+    "Z-Core/Собеседование Go/00 Ретраи (retries) и backoff.md",
+    "Z-Core/Собеседование Go/00 Event-Driven подход и Apache Kafka.md",
     "Z-Core/Собеседование Go",
     "Inbox/резюме/_resources",
     "Inbox/резюме",
