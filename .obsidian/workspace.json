@@ -22,17 +22,31 @@
             }
           },
           {
-            "id": "8538377a35061cef",
+            "id": "cf019a1e1e084410",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Core/Собеседование Go/ml Вопросы Собеседование GO.md",
+                "file": "Z-Core/Собеседование Java/00 HashMap в Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ml Вопросы Собеседование GO"
+              "title": "00 HashMap в Java"
+            }
+          },
+          {
+            "id": "64dfe0c8ae81423a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-Core/Собеседование Java/00 Сравнение объектов, ссылочных типов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Сравнение объектов, ссылочных типов"
             }
           }
         ]
@@ -224,10 +238,15 @@
   },
   "active": "3a165ec085dcfeb9",
   "lastOpenFiles": [
+    "Z-Core/Собеседование Java/00 HashMap в Java.md",
+    "Z-Core/Собеседование Java/ml Вопросы Собеседование Java.md",
+    "Z-Core/Собеседование Java/00 Сравнение объектов, ссылочных типов.md",
+    "Z-Core/Собеседование Java/00 Контракт Object, equals, hashcode.md",
+    "Z-Core/Собеседование Java/00 Классы-обёртки Wrapper Classes.md",
+    "Z-Core/Собеседование Java/00 Типы в Java.md",
     "Z-Core/Собеседование Go/ml Вопросы Собеседование GO.md",
     "Inbox/резюме/доп к резюме.md",
     "Inbox/резюме/CV_Java_Developer.md",
-    "Z-Core/Собеседование Java/ml Вопросы Собеседование Java.md",
     "Z-Core/Собеседование Java",
     "Z-Core/Собеседование Java.md",
     "Z-Core/Собеседование Go/00 SOLID.md",
@@ -246,11 +265,6 @@
     "Z-Core/Собеседование Go/00 Партиции (partitions) в Apache Kafka.md",
     "Z-Core/Собеседование Go/00 Kafka 100к сообщений в секунду.md",
     "Z-Core/Собеседование Go/00 least once, amost once и exactly once.md",
-    "Z-Core/Собеседование Go/00 Kafka и RabbitMQ.md",
-    "Z-Core/Собеседование Go/00 Chain of Responsibility.md",
-    "Z-Core/Собеседование Go/00 Ограничиваем ручку API.md",
-    "Z-Core/Собеседование Go/00 Client to the same instance. Microservices.md",
-    "Z-Core/Собеседование Go/00 Несколько микросервисов - одна БД.md",
     "Z-Core/Собеседование Go",
     "Inbox/резюме/_resources",
     "Inbox/резюме",
