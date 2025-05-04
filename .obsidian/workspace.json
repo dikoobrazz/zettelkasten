@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "092949a874572adf",
+        "id": "2ddd9f0a5c6e4f19",
         "type": "tabs",
         "children": [
           {
-            "id": "faec4ec3af6b9818",
+            "id": "f3bd43ef96b0ba88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-Core/Собеседование Go/00 КАНАЛЫ В GO!!!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 КАНАЛЫ В GO!!!"
+            }
+          },
+          {
+            "id": "142d920b6220f31d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,22 +34,9 @@
               "icon": "lucide-file",
               "title": "ml Вопросы Собеседование GO"
             }
-          },
-          {
-            "id": "3e5c9e9cf6c7651f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/резюме/CV_Go_Developer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CV_Go_Developer"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,35 +223,36 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "faec4ec3af6b9818",
+  "active": "142d920b6220f31d",
   "lastOpenFiles": [
-    "Z-Core/Собеседование Go/00 Паттерн \"пул горутин\".md",
-    "Inbox/резюме/CV_Go_Developer.md",
-    "Z-Core/Собеседование Go/ml Вопросы Собеседование GO.md",
-    "Z-Core/Собеседование Go/00 Потокобезопасная очередь.md",
-    "Z-Core/Собеседование Go/00 Fan-in, Fan-out простое объяснение.md",
-    "Z-Core/Собеседование Go/00 Паттерны fan-in fan-out.md",
-    "Inbox/резюме/Треккер Откликов. Работа..md",
-    "Z-Core/Собеседование Go/00 Ретрансляция из канала.md",
-    "Z-Core/Собеседование Go/00 Ассинхронный пайплайн.md",
-    "Z-Core/Собеседование Go/00 Паттерн Worker Pool. Реализация..md",
-    "Z-Core/Собеседование Go/00 Закрытые каналы. Использование.md",
-    "Z-Core/Собеседование Go/00 Где хранить интерфейсы.md",
+    "Z-Core/Собеседование Go/00 КАНАЛЫ В GO!!!.md",
     "Z-Core/Собеседование Go/00 Как работают интерфейсы в Go.md",
-    "Z-Core/Собеседование Java/00 Строки в Java.md",
-    "Z-Core/Собеседование Java/00 HashMap в Java.md",
-    "Daily/05-11-2024.md",
+    "Z-Core/Собеседование Go/00 Ключи идемпотентности в микросервисах.md",
+    "Z-Core/Собеседование Go/00 Sync package.md",
     "Z-Core/Собеседование Java/ml Вопросы Собеседование Java.md",
-    "Inbox/резюме/доп к резюме.md",
-    "Z-Core/Собеседование Java/00 Сравнение объектов, ссылочных типов.md",
-    "Z-Core/Собеседование Java/00 Контракт Object, equals, hashcode.md",
-    "Z-Core/Собеседование Java/00 Классы-обёртки Wrapper Classes.md",
-    "Z-Core/Собеседование Java/00 Типы в Java.md",
-    "Inbox/резюме/CV_Java_Developer.md",
+    "Без названия.canvas",
+    "Z-Core/Linux/Vim/ml VIM - NEOVIM.md",
+    "Z-Core/Example.md",
+    "Z-Core/Code/GO/00 Go - Channel.md",
+    "Z-Core/Code/GO/ml Go Concurrency.md",
+    "Z-Core/Code/GO/ml Go IO.md",
+    "Z-Core/Code/GO/ml Go Patterns.md",
+    "Z-Core/Code/GO/ml Go Learning Beginner.md",
+    "Z-Core/Code/GO/00 Go - Pattern Strategy.md",
+    "Z-Core/Code/GO/00 Go - Pattern Singletone.md",
+    "linkedin.com/in/beloborodoff.md",
+    "Inbox/Promts for AI.md",
+    "Inbox/qutebrowser.md",
+    "Inbox/links.md",
+    "Inbox/Golang Lessons.md",
+    "Inbox/Go gRPC.md",
+    "Inbox/Git Totorial.md",
+    "Inbox/draft Input Output.md",
+    "Inbox/draft Concurrency.md",
+    "Inbox/Docker - Postgresql && MySQL.md",
+    "Inbox/deepseek -lesson plan.md",
+    "Inbox/ChatGPT - Java Spring lesson plan.md",
     "Z-Core/Собеседование Java",
-    "Z-Core/Собеседование Java.md",
-    "Z-Core/Собеседование Go/00 SOLID.md",
-    "Inbox/Тестовое Задание Golang.md",
     "Z-Core/Собеседование Go",
     "Inbox/резюме/_resources",
     "Inbox/резюме",
@@ -268,7 +270,6 @@
     "Inbox/резюме/_resources/опыт_как_надо_2.png",
     "Inbox/резюме/_resources/опыт_как_надо.png",
     "Inbox/резюме/_resources/2025-02-03_22-13.png",
-    "Без названия.canvas",
     "Z-Core/Code/GO/Массивы",
     "Без названия 1.canvas",
     "Inbox/Без названия.canvas",

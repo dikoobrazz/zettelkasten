@@ -69,3 +69,5 @@ Location: [Казань]()
 - **Тестирование**: Unit-test, Integration-test  
 - **Дополнительно**: Highload, Microservices, Agile/Scrum, Linux
 
+
+

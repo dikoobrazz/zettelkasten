@@ -85,7 +85,17 @@ ___
 - Как происходит вставка в HashMap?
 - Паттерн TRANSACTIONAL OUTBOX в микросервисах
 
-
+volotile
+sinchronize
+CQRS
+ACID
+СGLIB
+SOLID
+LAZY EAGER
+Запрос n+1
+уровни изоляции запросов в бд
+Что такое микросервис
+партиции и ключи
 
 
 
